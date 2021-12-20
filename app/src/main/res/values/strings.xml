@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bengkel RyWin</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGFuaWVsZnJlbnoiLCJhIjoiY2t1cHFhdzByMzVxZzJydDRvejg1cmdqNyJ9.bwcb2QqE6Yf308n7yBxJpg</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="menu">Menu</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="akun">Akun</string>
+    <string name="teks_register">Register Akun</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="clear_field">Clear Field</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="alamat">Jalan Magelang 6 No.Km, Kutu Patran, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284</string>
+</resources>
